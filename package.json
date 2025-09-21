@@ -1,8 +1,4 @@
-# SafeTrip - Smart Tourist Safety Monitoring System
 
-## Root Package.json Configuration
-
-```json
 {
   "name": "safetrip-monorepo",
   "version": "1.0.0",
@@ -235,4 +231,3 @@ python-multipart==0.0.6
     "@openzeppelin/test-helpers": "^0.5.0"
   }
 }
-```
