@@ -270,7 +270,7 @@ router.get('/safety-tips', (req, res) => {
             {
                 id: 7,
                 title: 'Keep Cash in Multiple Places',
-                description: 'Don't keep all money in one place. Use multiple pockets.',
+                description: 'Don\'t keep all money in one place. Use multiple pockets.',
                 category: 'money',
                 priority: 'medium'
             },
